@@ -4,9 +4,10 @@
 
 Run Large Language Models locally using Ollama and interact with them through the Ollama API.
 
-## Model
+## Models
 
 - Llama 3.2:3B
+- Qwen 2.5:3B
 
 ## Technologies
 
@@ -19,6 +20,10 @@ Run Large Language Models locally using Ollama and interact with them through th
 
 - Installed Ollama
 - Downloaded Llama 3.2:3B
+- Downloaded Qwen 2.5:3B
 - Ran local LLM inference
 - Created Python script using Ollama API
-- Tested five prompts
+- Added a custom system prompt
+- Tested multiple prompts
+- Compared Llama 3.2:3B and Qwen 2.5:3B
+- Documented model response differences
